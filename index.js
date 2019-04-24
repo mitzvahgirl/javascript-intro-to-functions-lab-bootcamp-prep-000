@@ -6,7 +6,7 @@ function whisper(string) {
   return string.toLowerCase();
 }
   
-function logShout(string) {
+function Shout(string) {
   console.log() its one argument in all caps:
   
 function logWhisper(string) {
