@@ -6,8 +6,10 @@ function whisper(string) {
   return string.toLowerCase();
 }
   
-function Shout(string) {
-  console.log() its one argument in all caps:
+function shout(string) {
+  return
+  string.toUpperCase()
+}
   
 function logWhisper(string) {
   calls console.log() its one argument in all lowercase:
