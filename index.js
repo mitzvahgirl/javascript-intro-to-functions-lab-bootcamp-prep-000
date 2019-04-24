@@ -11,8 +11,9 @@ function shout(string) {
 }
   
 function logWhisper(string) {
-  calls console.log() its one argument in all lowercase:
-  
+ return string.toLowerCase();
+}
+
 function sayHiToGrandma(string) {
   return string ("I can't hear you!") if `string` is lowercase
   
